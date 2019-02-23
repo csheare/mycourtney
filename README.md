@@ -8,8 +8,8 @@
 bash install.sh
 ```
 ```
-source ~./bash_rc
+source ~/.bash_rc
 ```
 
 ### Notes
-- Remember to soucre you .bashrc/.bash_profile file after you run install.sh.
+- Remember to source you .bashrc/.bash_profile file after you run install.sh!
