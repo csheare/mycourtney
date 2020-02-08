@@ -3,6 +3,8 @@
 PWD=$(pwd)
 NAME="$PWD/.gitignore"
 echo "data
+.venv
+.env
 *.txt
 *.npy
 *.csv
