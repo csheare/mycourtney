@@ -25,8 +25,8 @@ echo -e 'if command -v pyenv 1>/dev/null 2>&1; then\n  eval "$(pyenv init -)"\nf
 
 # Virtual Env stuff (for now until im a pipenv goddess)
 echo "alias nv='python -m venv .venv'" >> ~/.bash_profile
-echo "'alias a='source .venv/bin/activate'" >> ~/.bash_profile
-echo "'alias d='deactivate'" >> ~/.bash_profile
+echo "alias a='source .venv/bin/activate'" >> ~/.bash_profile
+echo "alias d='deactivate'" >> ~/.bash_profile
 
 # sublime seems cool so here we go
 # First Download Sublime:
