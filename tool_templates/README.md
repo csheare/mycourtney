@@ -13,4 +13,4 @@ Here's the race plan:
 - mocking
 - deep learning/ml up and running in 5 min or less
 - Dockerfiles (wait let me go find my bible)
-- lets work on some docs for GIT-ME-OUT while we are here i guess
+- lets work on some docs for GIT-MEO-UT while we are here i guess

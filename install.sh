@@ -39,3 +39,7 @@ echo "alias cls='clear;ls'" >> ~/.bash_profile
 echo "alias nl='printf "\n"'" >> ~/.bash_profile
 echo "alias me='git config --global user.name csheare;git config --global user.email courtney.a.shearer@gmail.com;git config -l'" >> ~/.bash_profile
 #echo "alias" >> ~/.bash_profile
+
+
+
+# TODO COMING SOON! COOKIECUTTER FOR PYTHON PACKAGE DEVELOPMENT. Im done with this shit.
