@@ -7,7 +7,7 @@ verify_ssl = true
 pytest = "*"
 
 [packages]
-flask = "==0.12.1"
+flask = "==1.0"
 numpy = "*"
 requests = {editable = true,git = "https://github.com/requests/requests.git"}
 
